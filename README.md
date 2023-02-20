@@ -1,1 +1,2 @@
-# SF-Salaries-Exercise---EDA-Exploratory-Data-Analysis-
+## SF Salaries: Exercise - EDA [Exploratory Data Analysis]
+---
